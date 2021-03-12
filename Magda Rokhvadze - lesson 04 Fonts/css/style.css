@@ -31,9 +31,6 @@
 	margin-right: 20px;
 	font-family: "BPG Nino Mtavruli Bold", sans-serif;
 }
-.nav-a1{
-	margin-left: 30px;
-}
 .block-left{
 	width:570px;
 	height: 225px;
@@ -156,6 +153,7 @@
 	display: inline-block;
 	vertical-align: top;
 	width: 930px;
+	font-family: "BPG Glaho Arial", sans-serif;
 }
 .news-img{
 	vertical-align: top;
@@ -165,6 +163,7 @@
 	color: #000000;
 	font-size: 20px;
 	margin:18px 0 18px 30px;
+	font-family: 'ALK Tommaso';
 }
 .news-f{
 	margin-left: 30px;
