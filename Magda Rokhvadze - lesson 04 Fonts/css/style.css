@@ -43,8 +43,6 @@
 	display:inline-block;
 	vertical-align: middle;
 	font-size:20px;
-	
-	/*font-family: roboto;*/
 }
 .article-img{
 	display:inline-block;
@@ -147,8 +145,12 @@
 	margin-left:30px;
 }
 .news-text{
-	/*width: 930px;*/
 	margin-bottom:30px;
+	text-indent: 30px;
+	letter-spacing: 1px;
+	line-height: 30px;
+	letter-spacing: 2px;
+	font-style: italic;
 
 }
 .text-div{
